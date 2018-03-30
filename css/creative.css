@@ -187,11 +187,15 @@ header.masthead h1 {
 }
 
 header.masthead p {
+  font-size: 1.5rem;
+}
+
+header.masthead li {
   font-weight: 300;
 }
 
 @media (min-width: 768px) {
-  header.masthead p {
+  header.masthead li {
     font-size: 1.15rem;
   }
 }
