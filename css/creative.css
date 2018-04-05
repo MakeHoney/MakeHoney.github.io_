@@ -8,10 +8,20 @@ body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 
-/* added component */
+/* my contents */
 .bio {
   text-align: center;
 }
+
+.col-lg-8 .my_bio {
+  list-style: none;
+}
+
+.masthead strong {
+  color : #343434;
+}
+
+/*             */
 
 hr {
   max-width: 50px;
